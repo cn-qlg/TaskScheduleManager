@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskScheduleManager", "TaskScheduleManager\TaskScheduleManager.csproj", "{65A6204A-F4F6-498E-9A6D-B2BBDD1A55A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65A6204A-F4F6-498E-9A6D-B2BBDD1A55A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65A6204A-F4F6-498E-9A6D-B2BBDD1A55A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65A6204A-F4F6-498E-9A6D-B2BBDD1A55A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65A6204A-F4F6-498E-9A6D-B2BBDD1A55A1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {055F7942-B56F-47D8-8E21-52DE24668CCE}
+	EndGlobalSection
+EndGlobal
