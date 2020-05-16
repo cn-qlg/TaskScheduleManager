@@ -1,2 +1,2 @@
 # TaskScheduleManager
-Ò»¿î»ùÓÚ[TaskSchedule](https://github.com/dahall/TaskScheduler)µÄ¶àÉè±¸ÈÎÎñ¹ÜÀíÆ÷£¬¿ÉÊµÏÖ¶àÉè±¸ÈÎÎñ¼à²âÒÔ¼°Ô¤¾¯¹¦ÄÜ¡£
+ä¸€æ¬¾åŸºäº[TaskSchedule](https://github.com/dahall/TaskScheduler)çš„å¤šè®¾å¤‡ä»»åŠ¡ç®¡ç†å™¨ï¼Œå¯å®ç°å¤šè®¾å¤‡ä»»åŠ¡ç›‘æµ‹ä»¥åŠé¢„è­¦åŠŸèƒ½ã€‚

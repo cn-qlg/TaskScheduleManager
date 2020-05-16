@@ -10,6 +10,15 @@ namespace TaskScheduleManager
     {
         static void Main(string[] args)
         {
+            using (var manager = new TaskScheduleManager())
+            {
+                var tasks = manager.FilterTasksByPath(@"\");
+                foreach (var task in tasks)
+                {
+                    Console.WriteLine($"{task.Folder}, {task.Name}, {task.LastRunTime}, {task.LastTaskResult}, {manager.GetMsgFromLastTaskResult(task.LastTaskResult)}, {task.NextRunTime}, {task.State} ");
+                }
+                Console.ReadKey();
+            }
         }
     }
 }
