@@ -53,6 +53,5 @@ namespace TaskScheduleManager
         public string LastTaskResult { get; set; }
         public string NextRunTime { get; set; }
         public string State { get; set; }
-
     }
 }
